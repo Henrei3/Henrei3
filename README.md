@@ -1,5 +1,6 @@
 <div align="center">
-  ### Salut ! 👋
+
+### Salut ! 👋
 
 #### Etudiant en France, passionnée, motivé et perséverant
 
