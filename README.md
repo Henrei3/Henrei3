@@ -15,7 +15,6 @@
   </p>
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
-
-- Arthur C. Klarke
+> Arthur C. Klarke
 
 </div>
