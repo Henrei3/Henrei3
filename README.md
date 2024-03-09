@@ -1,8 +1,7 @@
-### Salut ! 👋
-
-#### Etudiant en France, passionnée, motivé, perséverant
-
 <div align="center">
+  ### Salut ! 👋
+
+#### Etudiant en France, passionnée, motivé et perséverant
 
   <p>
     J'ai récemment découvert le monde de l'IA et les effets qu'ils peuvent avoir sur le futur. Et pour la prémière fois de ma vie, j'ai su vraiment ce que je voulais poursuivre.
